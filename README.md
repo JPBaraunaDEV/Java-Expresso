@@ -10,6 +10,6 @@
 
 ### Depois basta rodar o comando
 
--> ./java_expresso.sh 
+- ./java_expresso.sh 
 
 ### e aguardar a mensagem "Instalações Concluídas !" ser exibida. 
