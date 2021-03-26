@@ -3,13 +3,13 @@
 
 ### Para ser executado corretamente, garante que o arquivo possua as permissões necessárias, para isso digite:
 
-1. sudo su
-2. ls
-3. cd Java-Expresso/
-4. chmod 777 java_expresso.sh
+- [] sudo su
+- [] ls
+- [] cd Java-Expresso/
+- [] chmod 777 java_expresso.sh
 
 ### Depois basta rodar o comando
 
-5. ./java_expresso.sh 
+- [] ./java_expresso.sh 
 
 ### e aguardar a mensagem "Instalações Concluídas !" ser exibida. 
