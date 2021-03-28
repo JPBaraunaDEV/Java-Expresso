@@ -1,5 +1,5 @@
 # Java-Expresso
-## Script com o objetivo de automatizar a instalação e configuração do ambiente de desenvolvimento Java no Ubuntu (20.04)
+## Script com o objetivo de automatizar a instalação e configuração do ambiente de desenvolvimento Java em alguma distribuição baseada no Debian, ambiente de teste: Ubuntu (20.04).
 
 ### Para ser executado corretamente, garanta que o arquivo possua as permissões necessárias.
 
